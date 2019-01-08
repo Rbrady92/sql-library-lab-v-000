@@ -19,7 +19,7 @@ INSERT INTO books (title, year, series_id) VALUES
 ("Return of King", 1955, 2);
 
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
-("Kvothe", "hi", "human?", 1, 1),
+("Kvothe", "hello", "human?", 1, 1),
 ("Chronicler", "hi", "human", 1, 1),
 ("Frodo", "hi", "hobbit", 2, 2),
 ("Sam", "hi", "hobbit", 2, 2),
